@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@200;600&family=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+h1{
+
+    width: 1000px;
+    height: 65px;
+    margin: 10px;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 88px;
+    line-height: 116%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-shadow: 0px 6px 0px #FFFFFF;
+
+}
+
+
+h2{
+
+    width: 500px;
+    height: 63px;
+    margin: 10px;
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 116%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+
+}
+
+ul{ 
+
+    display: flex;
+    height: 1300px;
+    width: 1000px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    flex-wrap: wrap;
+
+}
+
+section{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1300px;
+
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 225px;
+    height: 370px;
+    border-radius: 4px;
+    border: 1px solid #6a6a6e;
+
+}
+
+img{
+
+    height: 180px;
+    width: 180px;
+    border-radius: 4px;
+    margin: 5px 23px 2px 23px;
+
+}
+
+button{
+
+    margin: 2px 140px 2px 1px;
+    background: #FFFFFF;
+    border: 1px solid #9DC2FF;
+    border-radius: 4px;
+
+}
+
+.promo{
+
+    font-size: 13px;
+    color: rgb(124, 124, 124);
+    margin: 2px 2px 2px 3px;
+}
+
+span{   
+
+    font-size: 20px;
+    margin: 2px 2px 2px 3px;
+
+}
+
+.star{
+
+    font-size: 12px;
+    margin: 2px;
+
+}
+
+p{
+
+    font-family: 'Inter';
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.0275em;
+    color: #19191D;
+    margin: 2px 2px 2px 3px;
+
+}
